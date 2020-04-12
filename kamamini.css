@@ -1,0 +1,29 @@
+.long
+{
+    max-height: 600px;
+   
+}
+.bg-dark1 
+{
+   background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)) !important;
+
+    
+
+}
+.bg-dark1.scrolled 
+{
+    background: #ffffff !important;
+}
+.bg-dark1.scrolled strong
+{
+    color: black;
+}
+.lien2
+{
+    color: rgb(7, 168, 7);
+}
+.lien2:hover
+{
+    color: rgb(2, 102, 2);
+    text-decoration: none;
+}
