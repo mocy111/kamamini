@@ -16,13 +16,26 @@
 }
 .bg-dark1.scrolled strong
 {
-    color: black;
+    color: black !important; 
 }
 .lien2
 {
     color: rgb(7, 168, 7);
 }
 .lien2:hover
+{
+    color: rgb(2, 102, 2);
+    text-decoration: none;
+}
+.dropdown:hover>.dropdown-menu 
+{
+    display: block;   
+}
+.lien1
+{
+    color: rgb(157, 163, 157);
+}
+.lien1:hover
 {
     color: rgb(2, 102, 2);
     text-decoration: none;
